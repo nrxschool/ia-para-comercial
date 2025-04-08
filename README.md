@@ -1,4 +1,3 @@
-```markdown
 # IA e Engenharia de Prompt para Profissionais de Comercial
 
 ## Descrição do Curso
@@ -157,4 +156,3 @@ Aqui estão 15 prompts persuasivos que exploram técnicas de influência e persu
 
 **Conclusão**  
 As técnicas e ferramentas apresentadas neste material fornecem uma base sólida para que profissionais da área Comercial utilizem a IA de forma estratégica e eficiente. Desde a elaboração de propostas e discursos de vendas criativos, passando por abordagens estruturais, até o uso de técnicas persuasivas, esses recursos permitem otimizar processos, aprimorar o relacionamento com clientes e conquistar melhores resultados. Ao aplicar estes prompts e explorar as ferramentas de IA disponíveis, você estará preparado para inovar em suas estratégias comerciais e aumentar significativamente seu desempenho no mercado.
-```
